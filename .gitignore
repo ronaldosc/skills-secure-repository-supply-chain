@@ -40,3 +40,8 @@ Thumbs.db
 #####################
 # These files are used for testing and should not be included in the repository
 .temp/**
+
+# Build artifacts and dependency directories
+**/bin/
+**/obj/
+**/node_modules/
