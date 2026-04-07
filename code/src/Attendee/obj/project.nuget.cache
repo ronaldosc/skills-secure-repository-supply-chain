@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFAb/DWeeHA=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/Attendee.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

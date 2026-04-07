@@ -1,0 +1,12 @@
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/bin/Debug/net5.0/Attendee.deps.json
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/bin/Debug/net5.0/Attendee.dll
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/bin/Debug/net5.0/Attendee.pdb
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.AssemblyInfoInputs.cache
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.AssemblyInfo.cs
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.csproj.CoreCompileInputs.cache
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.sourcelink.json
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.dll
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/refint/Attendee.dll
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/Attendee.pdb
+/home/runner/work/skills-secure-repository-supply-chain/skills-secure-repository-supply-chain/code/src/Attendee/obj/Debug/net5.0/ref/Attendee.dll
